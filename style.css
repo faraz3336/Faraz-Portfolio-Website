@@ -1,0 +1,24 @@
+/* /* .custom-img {
+    height: 300px; /* Adjust height */
+    width: 100%;
+    object-fit: cover;
+  }
+  @media (max-width: 768px) {
+    .custom-img {
+      height: 200px;
+    }
+  }
+  .v-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .custom-img {
+    height: 50;         /* Set to your desired height */
+    object-fit: cover;     /* Makes sure the image fills the box neatly */
+    width: 100%;           /* Optional, keeps it responsive */
+  }
+   */
+   */
